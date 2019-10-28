@@ -2,7 +2,8 @@
 <p align="center">
   <img width = 400 height = 270 src="img.png">
 </p>
-<br />Implementation of a parallel query answering system, consisting of processes communicating through Pipes and Signals. A Master Process (JobExecutor) at first reads a file given which contains paths to folders containing files with articles. Then creates a number of Child Processes (Workers) and splits the files to paths to them using pipes. The synchronization between all the processes is achieved using signals. The Workers use the Trie implemented [here](https://github.com/AndCharalampous/minisearch) to create an index for the articles' words. After succesfull creation of Workers and their indexes, the JobExecutor can accept queries to answer.
+<br />Implementation of a parallel query answering system, consisting of processes communicating through Pipes and Signals. A Master Process (JobExecutor) at first reads a file given which contains paths to folders containing files with articles. Then creates a number of Child Processes (Workers) and splits the files to paths to them using pipes. The synchronization between all the processes is achieved using signals. The Workers use the Trie implemented 
+[here](https://github.com/AndCharalampous/minisearch/) to create an index for the articles' words. After succesfull creation of Workers and their indexes, the JobExecutor can accept queries to answer.
 
 ## Deployment
 
