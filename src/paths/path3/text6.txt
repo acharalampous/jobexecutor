@@ -1,0 +1,70 @@
+
+7	File-swappers ready new network  Legal attacks on websites that help people swap pirated films have forced the development of a system that could be harder to shut down
+  One site behind the success of the BitTorrent file-swapping system is producing its own software that avoids the pitfalls of the earlier program
+ A test version of the new Exeem program will be released in late January
+ But doubts remain about the new networks ability to ensure files being swapped are "quality copies"
+  In late December movie studios launched a legal campaign against websites that helped people swap pirated movies using the BitTorrent network
+ The legal campaign worked because of the way that BitTorrent is organised
+ That file-sharing system relies on links called "trackers" that point users to others happy to share the file they are looking for
+ Shutting down sites that listed trackers crippled the BitTorrent network
+ One of the sites shut down by the legal campaign was suprnova
+org which helped boost the popularity of the BitTorrent system by checking that trackers led to the movies or TV programmes they claimed to
+  Now the man behind suprnova
+org, who goes by the nickname Sloncek, is preparing to release software for a new file-swapping network dubbed Exeem
+ In an interview with Novastream web radio, Sloncek said Exeem would combine ideas from the BitTorrent and Kazaa file-sharing systems
+ Like BitTorrent, Exeem will have trackers that help point people toward the file they want
+ Like Kazaa these trackers will be held by everyone
+ There will be no centrally maintained list
+ This, said Sloncek, should make the system less vulnerable to legal action aimed at stopping people swapping pirated movies and music
+ The Exeem software has been under development for a few months and is currently being tested by a closed group of users
+ An early public version of the software should be available before February
+ Sloncek said that currently only a Windows version of the software was in development
+ There were no plans for a Linux or Mac version
+ He said that costs of writing the software will be paid for by adverts appearing in the finished version of the program
+ Despite Suprnova administrator Sloncek's involvement with Exeem, the basic technology appears to have been developed by a firm called Swarm Systems that is based on Caribbean island Saint Kitts and Nevis
+  Users of the Exeem system will be able to rate files being swapped to help stop the spread of fake files, Sloncek told Novastream
+  Dr Johan Pouwelse, a researcher at the Delft University of Technology who studies peer-to-peer networks, said Exeem was the next evolution in file-sharing systems
+ But, he said, it would struggle to be as popular as BitTorrent and Suprnova because early versions were not taking enough care to make sure good copies of files were being shared
+ "Exeem cannot prevent pollution," he said
+ "The rating system in Exeem seems flawed because it is easy to insert both fake files and fake ratings," he said
+ Studies have shown that organisations working for record labels and movie studios have worked to undermine Kazaa by putting in fakes
+ By contrast moderators on Suprnova made sure files being shared were high quality
+ "The moderators are the difference between having a system that works and one that's full of crap like Kazaa," he said
+ "There is a fundamental tension between distribution and integrity," he said
+ Mr Pouwelse said that future versions of file-sharing systems are likely to incorporate some kind of distributed reputation system that lets moderators prove who they are to the network and rate which files are worth downloading
+ When big files were being shared moderation systems were key, said Mr Pouwelse
+ He added that the legal attacks on BitTorrent had driven people away from sites such as Suprnova but many users had simply migrated to other tracker listing sites many of which have seen huge increases in traffic
+ "It's hard to compete with free," he said
+ No-one from the Motion Picture Association of America was immediately available for comment on the file-sharing development
+ 
+8	Games enter the classroom  Video games could soon be transplanted from their natural habitat to the more academic atmosphere of the classroom
+  With violent titles continuing to top the charts, gaming and learning have not always sat well together but the tide could be beginning to turn
+ Recent research by the London Institute of Education concluded that games have a valid place in the classroom
+ "Games teach life skills such as decision making, problem solving," said Martin Owen, at Futurelab
+ Mr Owen said games could also help children make quick assessments of situations and learning by trial and error
+  Futurelab is a non-profit organisation looking at ways of using technology for innovative learning
+ Most game firms are too busy turning a profit in the lucrative commercial market to consider developing games for use in schools but Liverpool-based games firm Lateral Visions saw a gap in the market
+ "Learning games were somewhat old-fashioned and we didn't see anyone else doing what we wanted to do," said Dr Carl Gavin, managing director of Lateral Visions
+ The company set out to write something that had all the look and feel of a commercial game but with an educational and learning element
+ The result is Racing Academy, a massively multiplayer car racing game, which requires not only a thirst for speed but a working knowledge of physics and engineering as well
+  It is being used by Futurelab to test the viability of using gaming in the classroom
+ "We are keen to find out whether alongside learning a game, we can also learn something that the rest of the world can understand as being educational," said Mr Owen
+ Players will have to understand how a car works in order to win races and the knowledge of physics and engineering that they gather along the way will be done in a way that no text book can teach
+ The game requires users to build and maintain their vehicles and to monitor and analyse performance using data from a variety of outputs, before and after racing
+ Teamwork is essential and a chat area allows students to exchange information and data, work collaboratively and review their own performances
+ This fusion of chatrooms and gaming is of special interest to Futurelab as it is through talking to others that much of the learning can be achieved, thinks Mr Owen
+  The game has been trialled in two secondary schools in Bristol and feedback from students has been positive
+ "Pupils used the statistics to work out the best way to build their cars and the online message board to share ideas and support each other," said Ben Williamson, a researcher at Futurelab charged with testing the game in real schools
+ Dr Gavin thinks the game satisfies both teachers' need for learning outcomes and the children's desire to rise to a challenge
+ "Games in the classroom need to support the teacher
+ It is not about giving children free rein to play game but recognising that games attract attention and offer a challenge," he said
+ Professor Angela MacFarlane, based at Bristol University, has spent several years researching how games can be incorporated into classrooms
+  Use of games in schools has been patchy she found, with Sim City proving the most popular
+ Traditionally schools have eschewed mainstream games in favour of used so-called edu-tainment software in a belief that such packages help to make learning fun, she found in her research
+ "It is perhaps in a compromise between edutainment and mainstream games that the greatest potential for classroom useable games lies," she wrote in a paper entitled Games and Learning
+ 'Lite' versions of existing games could be the way forward and would overcome one of the biggest hurdles - persuading developers to write for the educational market
+ This would appeal to developers because of the low costs involved in adapting them as well as offering a new opportunity for marketing
+ Already there are games on the market, such as Civilisation and Age of Empire, that have educational elements said Mr Owen
+ "Even in Grand Theft Auto it is not just the violence that engages people," he said
+ It could be some time until that particular game makes it into the classroom though
+ 
